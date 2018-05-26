@@ -1,4 +1,4 @@
-# review-pos2018
+# pos2018
 Repository for review purposes for "Two Flavors of DRAT"
 
 Directory `discrepant-proofs/` contains an experiment showing that state-of-the-art checkers produce the claimed results in the two discrepant proofs presented in the paper.
